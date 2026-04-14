@@ -23,7 +23,7 @@ I'm Aleksander Fidelus I usually find myself tinkering with:
 
 <ul>
 <!-- BLOG-POST-LIST:START -->
-<li><a href="https://aleksanderfidelus.com/blog/auto-translating-with-github-actions/">How I Translate 2000+ Files Automatically with GitHub Actions and AI</a> (Apr 14 2026)</li><li><a href="https://aleksanderfidelus.com/blog/workflow-artifacts-direct-upload/">GitHub Actions support for non-zipped Artifacts</a> (Mar 31 2026)</li><li><a href="https://aleksanderfidelus.com/blog/deploying-from-github-mobile-in-vietnam/">Deploying from GitHub Mobile while Motorbiking Vietnam</a> (Jan 27 2026)</li><li><a href="https://aleksanderfidelus.com/testimonials/sylwester-walczak/">[No Title] - Post</a> (Jan 1 2001)</li><li><a href="https://aleksanderfidelus.com/services/copilot-training/">GitHub Copilot Training</a> (Jan 1 2001)</li>
+<li><a href="https://aleksanderfidelus.com/blog/auto-translating-with-github-actions/">How I Translate 2000+ Files Automatically with GitHub Actions and AI</a> (Apr 14 2026)</li><li><a href="https://aleksanderfidelus.com/blog/workflow-artifacts-direct-upload/">GitHub Actions support for non-zipped Artifacts</a> (Mar 31 2026)</li><li><a href="https://aleksanderfidelus.com/blog/deploying-from-github-mobile-in-vietnam/">Deploying from GitHub Mobile while Motorbiking Vietnam</a> (Jan 27 2026)</li>
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
