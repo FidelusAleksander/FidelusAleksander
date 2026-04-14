@@ -11,11 +11,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
       - name: Pull in blog posts
         uses: gautamkrishnar/blog-post-workflow@ebbf1911bcb30845eead5504d0b885f6582f65a0 # v1.9.5
         with:
-          feed_list: 'https://aleksanderfidelus.com/index.xml'
+          feed_list: 'https://aleksanderfidelus.com/blog/index.xml'
           date_format: 'mmm d yyyy'
           template: '<li><a href="$url">$title</a> ($date)</li>'
           tag_post_pre_newline: 'true'
