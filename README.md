@@ -19,6 +19,13 @@ I'm Aleksander Fidelus I usually find myself tinkering with:
 
 
 
+## 📚 Recent Blog Posts
+
+<ul>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+</ul>
+
 <a href="https://github.com/FidelusAleksander/FidelusAleksander">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=FidelusAleksander&show_icons=true&theme=cobalt" />
 </a>
