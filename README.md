@@ -27,9 +27,6 @@ I'm Aleksander Fidelus I usually find myself tinkering with:
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
-<a href="https://github.com/FidelusAleksander/FidelusAleksander">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=FidelusAleksander&show_icons=true&theme=cobalt" />
-</a>
 
 ## 
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aleksanderfidelus.com/)
